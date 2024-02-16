@@ -1,0 +1,47 @@
+body, html{
+    width: 100%;
+    height: 500px;
+}
+#utama{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: center;    
+}
+.bigbut{
+    width: 100px;
+    height: 100px;
+    margin-top: 180px;
+    /* margin-left: 291px; */
+}
+
+#wadah{
+    /* margin-top: 100px; */
+    width: 100%;
+    height: 460px;
+    display: flex;
+    flex-direction: row;
+}
+#tdk{
+    width: 50%;
+    height: 100%;
+    /* background-color: blueviolet; */
+}
+#hoo{
+    width: 50%;
+    height: 100%;
+    /* background-color: brown; */
+}
+#tru{
+    margin-left: 582px;
+    font-size: 16px;
+}
+#fls{
+    margin-right: 582px;
+    font-size: 16px;
+}
+#hiasan{
+    position: absolute;
+    margin-left: 605px;
+    z-index: 1;
+}
